@@ -8,8 +8,6 @@ Full endpoint documentation is present at [Twitch API Reference](https://dev.twi
 
 Created by Claudio Oliveira (https://twitter.com/cldlvr)
 
-<img src="https://github.com/claudiooliveira/flutter_twitch/blob/main/live_example.gif?raw=true" alt="Live Example" width="300"/>
-
 ### Add dependency
 
 ```yaml
