@@ -1,9 +1,10 @@
 name: flutter_twitch
-description: Connect your app to the twitch API
-version: 0.0.1
+description: Integrate Twitch API into your app easily with this package.
+version: 0.0.2
 # Author
 # Claudio Oliveira - https://twitter.com/cldlvr
 homepage: https://devmagic.com.br/
+repository: https://github.com/claudiooliveira/flutter_twitch/
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
